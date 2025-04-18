@@ -38,13 +38,13 @@ This project explores the performance of three unsupervised clustering algorithm
 ## 🔍 Visualizations
 
 ### KMeans (best configuration)
-![KMeans](graphs/kmeans_results.png)
+![KMeans](kmeans_results.png)
 
 ### Hierarchical Clustering (best configuration)
-![Hierarchical](graphs/hierarchical_results.png)
+![Hierarchical](hierarchical_results.png)
 
 ### Mean Shift Clustering (auto-detected clusters)
-![Mean Shift](graphs/meanshift_results.png)
+![Mean Shift](meanshift_results.png)
 
 ---
 
